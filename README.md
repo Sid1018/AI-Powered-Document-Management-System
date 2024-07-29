@@ -1,4 +1,8 @@
 # AI-Powered-Document-Management-System
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b"
+>
+</p>
 This project aims to create an intelligent document management system leveraging cutting-edge technologies in AI and blockchain. Developed for HACKNDORE, developed by INNOVATORSHUB TEAM.
 Here is a professional README file for the project:
 The system includes the following key components:
